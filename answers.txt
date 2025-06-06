@@ -9,3 +9,7 @@ Answer: Virtually any field. Common ones include ML, healthcare, real estate, et
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge is used to combine changes from two branches (makes a new merge commit). Whereas, rebase adds the commits on top of the existing commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: The final project! Been wanting to get my hands dirty in an ML project for a while now but have been waiting to be formally educated about this vast and complicated field.
