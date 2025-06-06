@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Virtually any field. Common ones include ML, healthcare, real estate, etc.
