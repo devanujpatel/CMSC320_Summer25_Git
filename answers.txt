@@ -5,3 +5,7 @@ Answer: Git is a very powerful version control tool. It makes developing softwar
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Virtually any field. Common ones include ML, healthcare, real estate, etc.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge is used to combine changes from two branches (makes a new merge commit). Whereas, rebase adds the commits on top of the existing commits.
